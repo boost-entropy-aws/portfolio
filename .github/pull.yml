@@ -1,6 +1,6 @@
 version: "1"
 rules:
   - base: master
-    upstream: jestovar1980:master
+    upstream: jatm80:master
     mergeMethod: merge
     mergeUnstable: true
